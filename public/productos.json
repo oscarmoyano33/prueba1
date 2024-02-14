@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "nombre": "Billetera Hombre",
+        "img": "/assets/img/billetera.jpg",
+        "precio": 500,
+        "stock": 2,
+        "description": "cuero legitimo argentino",
+        "categoria": "Billeteras"
+    },
+    {
+        "id": 2,
+        "nombre": "Billetera mujer",
+         "img": "/assets/img/billemujer.jpg",
+        "precio": 1400,
+        "stock": 10,
+        "description": "cuero legitimo argentino",
+        "categoria": "BilleMujer"
+    },
+    {
+        "id": 3,
+        "nombre": "Portadocumento",
+         "img": "/assets/img/portadocumento.jpg",
+        "precio": 2000,
+        "stock": 5,
+        "description": "cuero legitimo",
+        "categoria": "Portadocumento"
+    },
+    {
+        "id": 4,
+        "nombre": "Tarjetero",
+        "img": "/assets/img/tarjetero.jpg",
+        "precio": 1600,
+        "stock": 12,
+        "description": "cuero argentino",
+        "categoria": "Tarjetero"
+    }
+]
